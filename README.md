@@ -1,5 +1,6 @@
 # Böser Fitness Instructor
 > Das hier ist ein Repo für einen Text-to-Speach Python Fitness-Coach, der einen etwas ... speziellen Humor hat.
+> Text-To-Speach / Text-zu-Sprache wird durch das `pyttsx3` module realisiert, ein Text zu Sprache Synthese-Tool.
 
 ## Idee
 - Im Script werden die Übungen als Strings hinterlegt
