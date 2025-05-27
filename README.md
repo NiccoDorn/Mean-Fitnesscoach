@@ -17,4 +17,8 @@
 - `trainierDuSack(...)`: Führt das eigentlich Training aus und sagt die Farben durch
 - `speak(...)`: Wrapper für die Engine-Durchsagen
 
+## Ausführung
+Entweder das Modul `pyttsx3` manuel installieren mit `pip install pyttsx3` und dann ausführen oder direkt ausführen mit `pytho3 fitness.py -r`
+
+
 Viel Spaß, hehehe.
