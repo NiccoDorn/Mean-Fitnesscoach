@@ -38,7 +38,7 @@ def main():
     speak("Hopp jetzt.")
     trainierDuPudding(exs)
     
-    # das nicht nicht das Ende!
+    # das ist nicht das Ende!
     speak("War doch gar nicht so schwer, ihr Waschlappen.")
     speak("Gut gemacht und nicht vergessen: Geschlemmt wird nicht!")
     
