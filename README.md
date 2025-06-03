@@ -15,7 +15,7 @@
   
 ## Funktionen
 - `main(...)`: Gesamtdurchlauf und übergeordnete Ansagen
-- `trainierDuSack(...)`: Führt das eigentlich Training aus und sagt die Farben durch
+- `trainierDuPudding(...)`: Führt das eigentlich Training aus und sagt die Farben durch
 - `speak(...)`: Wrapper für die Engine-Durchsagen
 
 ## Ausführung
