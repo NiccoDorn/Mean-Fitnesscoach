@@ -29,7 +29,7 @@ def main():
         speak(f"{c} bedeutet: {exercise}.")
         # print(f"{c} bedeutet: {exercise}.")
         
-    # wie Antoine Burz schon sagte: Trrrrainieren!
+    # wie Antoine Burtz schon sagte: Trrrrainieren!
     speak("In 3 Sekunden geht es los. Nicht einpennen.")
     time.sleep(3)
     trainierDuPudding(exs)
